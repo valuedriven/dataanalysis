@@ -1,7 +1,8 @@
 # Atividades (parte 2)
 
 ## Listas:
-- exercicios_listas.pdf
+- Referência: exercicios_listas.pdf
+- Resolução: exercicios_listas.ipynb
 
 ## Dicionários:
 - exercicio_strings.ipynb
