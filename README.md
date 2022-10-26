@@ -15,7 +15,8 @@
  (não identificado)
  
 ## NumPy:
-- exercicio_numpy.ipynb
+- Referência: [exercicio_numpy.ipynb](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicio_numpy.ipynb)
+- Resolução: exercicio_numpy.ipynb
  
 ## Pandas:
 - pandas.ipynb - material de aula com um exercício ao final
