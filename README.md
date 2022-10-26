@@ -1,4 +1,4 @@
-# Atividades (parte 2)
+# Exercícios [Segunda parte da disciplina]
 
 ## Listas:
 - Referência: [exercicios_listas.pdf](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicios_listas.pdf)
@@ -30,6 +30,10 @@
 
 - Referência: [exercicio_pandas_graficos.ipynb](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicio_pandas_graficos.ipynb)
 - Resolução: [exercicio_pandas_graficos.ipynb](exercicio_pandas_graficos.ipynb)
+
+## Pandas/gráficos (exercício complementar):
+- Referência: [exemplo.ipynb](https://virtual.ufmg.br/20222/mod/resource/view.php?id=153348)
+- Resolução: [exercicio_pandas_graficos_complementar.ipynb](https://github.com/valuedriven/dataanalysis/blob/master/exercicio_pandas_graficos_complementar.ipynb)
 
 
 
