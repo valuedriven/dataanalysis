@@ -32,3 +32,4 @@
 - Resolução: [exercicio_pandas_graficos.ipynb](exercicio_pandas_graficos.ipynb)
 
 
+
