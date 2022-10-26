@@ -1,11 +1,12 @@
 # Atividades (parte 2)
 
 ## Listas:
-- Referência: exercicios_listas.pdf
+- Referência: [exercicios_listas.pdf]([https://link-url-here.org](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicios_listas.pdf))
 - Resolução: exercicios_listas.ipynb
 
 ## Dicionários:
-- exercicio_strings.ipynb
+- Referência: exercicio_strings.ipynb
+- 
 
 ## Strings
  (não identificado)
