@@ -5,8 +5,8 @@
 - Resolução: exercicios_listas.ipynb
 
 ## Dicionários:
-- Referência: exercicio_strings.ipynb
-- 
+- Referência: [exercicio_strings.ipynb](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicio_strings.ipynb)
+- Resolução: exercicio_strings.ipynb
 
 ## Strings
  (não identificado)
