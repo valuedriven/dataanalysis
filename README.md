@@ -2,7 +2,7 @@
 
 ## Listas:
 - Referência: [exercicios_listas.pdf](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicios_listas.pdf)
-- Resolução: exercicios_listas.ipynb
+- Resolução: [exercicios_listas.ipynb](exercicios_listas.ipynb)
 
 ## Dicionários:
 - Referência: [exercicio_strings.ipynb](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicio_strings.ipynb)
