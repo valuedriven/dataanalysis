@@ -31,3 +31,4 @@
 - Referência: [exercicio_pandas_graficos.ipynb](https://github.com/joaopauloam/metodos_computacionais/blob/6246fbeb154dc834da4da653f8902693af729a8e//exercicio_pandas_graficos.ipynb)
 - Resolução: exercicio_pandas_graficos.ipynb
 
+
