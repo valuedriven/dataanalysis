@@ -28,9 +28,15 @@ Apresentação das demais métricas
 
 ## Conclusão
 
-Incluir dúvidas
+Incluir dúvidas e próximos passos
 
 ## Referências bibliográficas
 
 Notas de aula
 Vídeo aulas
+
+https://github.com/vipmunot/Data-Science-Projects/blob/master/Finding%20Optimal%20Features%20for%20Credit%20Analysis/AML%20Project%20Report.pdf
+http://cs229.stanford.edu/projects2014.html
+http://cs229.stanford.edu/projects2012.html
+https://www.stat.cmu.edu/~brian/701/notes/paper-structure.pdf
+
