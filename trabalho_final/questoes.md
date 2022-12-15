@@ -1,6 +1,6 @@
 # Questões diversas
 
-Resultados 'muito bons'?
+Analisar parâmetro cv do GridSearchCV
 
 Métricas:
 https://scikit-learn.org/stable/modules/model_evaluation.html
