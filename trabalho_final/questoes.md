@@ -9,6 +9,11 @@ MLP: number of nodes in layers, The learning rate, Dropout rate, Batch size, Epo
 Analisar parâmetro cv do GridSearchCV
 
 Métricas:
+f1: 2 * (precision * recall) / (precision + recall)
+
+precision: tp / (tp + fp)
+
+recall: tp / (tp + fn)
 
 https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics
 
