@@ -1,7 +1,10 @@
 # Questões diversas
 
 Hyperparameters:
-max_depth in Random Forest Algorithms, k in KNN Classifier.
+
+RandonForest: max_depth in Random Forest Algorithms, k in KNN Classifier.
+MLP: number of nodes in layers, The learning rate, Dropout rate, Batch size, Epochs to train for
+
 
 Analisar parâmetro cv do GridSearchCV
 
